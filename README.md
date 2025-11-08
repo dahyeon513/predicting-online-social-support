@@ -13,7 +13,7 @@
 - **감정적 지원 (Emotional Support, emt)**  
 - **정보적 지원 (Informational Support, inf)**  
 
-각각의 **필요 정도(0, 1, 2 점수)** 를 예측하는 NLP 모델입니다.
+각각의 **지원 정도(0, 1, 2 점수)** 를 예측하는 NLP 모델입니다.
 
 ---
 
