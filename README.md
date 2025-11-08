@@ -39,13 +39,13 @@
 
 ## 🚀 Code Overview
 ```
-predicting-online-social-support
-├─ data/
-│  └─ README.md                # 데이터는 포함하지 않음 (저작권 이슈)
-├─ src/
-│  ├─ llm_feature.py           # LLM prompt → 특징 생성
-│  ├─ train_bert.py            # 점수 예측 모델
-└─ README.md
+predicting-online-social-support/
+ predicting-online-social-support
+├─ notebook/
+│  ├─ final_prompt.ipynb     # LLM Prompt → feature 생성
+│  └─ final_model.ipynb      # BERT 기반 점수 예측 (inf/emt)
+├─ README.md
+└─ .gitignore
 ```
 ---
 
