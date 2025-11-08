@@ -38,6 +38,7 @@
 ---
 
 ## 🚀 Code Overview
+```
 predicting-online-social-support
 ├─ data/
 │  └─ README.md                # 데이터는 포함하지 않음 (저작권 이슈)
@@ -45,7 +46,7 @@ predicting-online-social-support
 │  ├─ llm_feature.py           # LLM prompt → 특징 생성
 │  ├─ train_bert.py            # 점수 예측 모델
 └─ README.md
-
+```
 ---
 
 📧 Contact: qkrek921@naver.com
